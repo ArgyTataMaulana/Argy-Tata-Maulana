@@ -18,7 +18,7 @@ Selain project mandiri, saya juga mendokumentasikan proses belajar struktur data
 ---
 
 ### 📫 Kontak Saya:
-- **LinkedIn:** [linkedin.com/in/argytatamaulana](https://www.linkedin.com/in/argytatamaulana)
+- **LinkedIn:** [linkedin.com/in/argytatamaulana](https://www.linkedin.com/in/argy-tata-maulana-b45b14310/)
 - **Email:** Tatamaulanaargy@gmail.com
 - **Website:** [Portofolio di Projects.co.id](https://projects.co.id/public/user/view/argytata)
 
